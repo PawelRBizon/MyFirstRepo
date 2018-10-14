@@ -1,0 +1,2 @@
+# MyFirstRepo
+moje pierwsze repozytorium
